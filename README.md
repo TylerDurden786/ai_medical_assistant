@@ -4,14 +4,13 @@
 
 1.  **Introduction**
 2.  **System Architecture**
-3.  **Video Demonstration**
-4.  **Components**
-5.  **What I Learnt**
-6.  **Technologies**
-7.  **Getting Started**
-8.  **Use Cases**
-9.  **Special Mention**
-10.  **Prerequisites**
+3.  **Components**
+4.  **What I Learnt**
+5.  **Technologies**
+6.  **Getting Started**
+7.  **Use Cases**
+8.  **Special Mention**
+9.  **Prerequisites**
     * Installing FFmpeg and PortAudio
         * macOS
         * Linux
@@ -32,16 +31,12 @@
 ![process_flow](flowchart.JPG)
 
 
-## 3. Video Demonstration
-
-[![Video Thumbnail](link_to_your_video_thumbnail.jpg)](https://github.com/TylerDurden786/ai_medical_assistant/blob/main/DEMO.mp4)
-
 * **Phase 1 (Yellow):** Text/query processing via vision models and LLMs.
 * **Phase 2 (Green):** Audio capture and STT conversion (OpenAI).
 * **Phase 3 (Blue):** LLM response converted to audio via TTS.
 * **Phase 4 (Pink):** Gradio UI for image uploads and interaction.
 
-## 4. Components
+## 3. Components
 
 * **Audio Recorder:** Captures user audio.
 * **STT (OpenAI):** Audio to text conversion.
@@ -50,7 +45,7 @@
 * **TTS:** Text to audio conversion.
 * **Gradio UI:** User interface.
 
-## 5. What I Learnt
+## 4. What I Learnt
 
 * Integration of different AI models.
 * Multi-modal application development.
@@ -58,7 +53,7 @@
 * Cloud AI (OpenAI) and local processing.
 * Data flow management in AI systems.
 
-## 6. Technologies
+## 5. Technologies
 
 * **Groq:** (Hardware/deployment)
 * **OpenAI:** (STT)
@@ -67,13 +62,13 @@
 * **Python:** (Core language)
 * **FFmpeg/PortAudio:** (Likely audio processing)
 
-## 7. Getting Started
+## 6. Getting Started
 
 * Input audio via the recorder (Phase 2).
 * Upload images via Gradio (Phase 4).
 * System processes and responds with audio.
 
-## 8. Use Cases
+## 7. Use Cases
 
 * Multi-modal AI assistants.
 * Accessibility tools.
@@ -81,11 +76,11 @@
 * Creative content generation.
 * Customer service bots with visual context.
 
-## 9. Special Mention
+## 8. Special Mention
 
 * A special thank you to [AIwithhassan/ai-doctor-2.0-voice-and-vision](https://github.com/AIwithhassan/ai-doctor-2.0-voice-and-vision) for their inspiring work.
 
-## 10. Prerequisites
+## 9. Prerequisites
 
 ### Installing FFmpeg and PortAudio
 
