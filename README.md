@@ -34,7 +34,7 @@
 
 ## 3. Video Demonstration
 
-[![Video Thumbnail](link_to_your_video_thumbnail.jpg)](MEDI BOT - Made with Clipchamp.mp4)
+[![Video Thumbnail](link_to_your_video_thumbnail.jpg)](https://github.com/TylerDurden786/ai_medical_assistant/blob/main/DEMO.mp4)
 
 * **Phase 1 (Yellow):** Text/query processing via vision models and LLMs.
 * **Phase 2 (Green):** Audio capture and STT conversion (OpenAI).
