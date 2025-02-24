@@ -28,6 +28,8 @@
 
 ## 2. System Architecture
 
+![process_flow](flowchart.JPG)
+
 * **Phase 1 (Yellow):** Text/query processing via vision models and LLMs.
 * **Phase 2 (Green):** Audio capture and STT conversion (OpenAI).
 * **Phase 3 (Blue):** LLM response converted to audio via TTS.
@@ -44,7 +46,7 @@
 
 ## 4. What I Learnt
 
-* Integration of diverse AI models.
+* Integration of different AI models.
 * Multi-modal application development.
 * Gradio UI prototyping.
 * Cloud AI (OpenAI) and local processing.
@@ -75,7 +77,7 @@
 
 ## 8. Special Mention
 
-(Acknowledge any contributions, libraries, or individuals that were particularly helpful.)
+* A special thank you to [AIwithhassan/ai-doctor-2.0-voice-and-vision](https://github.com/AIwithhassan/ai-doctor-2.0-voice-and-vision) for their inspiring work.
 
 ## 9. Prerequisites
 
